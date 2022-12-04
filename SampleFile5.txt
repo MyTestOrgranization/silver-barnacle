@@ -1,0 +1,7 @@
+Filmmakers and video pros need to know the difference between rolling shutter and global shutter. Here are the basics.
+An important part of the production process is understanding the difference between rolling shutter and global shutter. Both are distinct in terms of the final image result, especially when the camera is in motion. Let’s take a close look at the ins and outs of each and how they affect our final production.
+
+What Is Global Shutter?
+We’ll start with the cinematic standard of global shutter, which has more to do with a camera’s sensor than being a process or effect. A global shutter sensor would be a CCD sensor, however most of the digital cameras being used today —  like the ARRI ALEXA — employ a CMOS sensor that utilizes global shutter to capture an entire frame all at once.
+
+
